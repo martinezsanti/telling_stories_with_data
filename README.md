@@ -10,4 +10,4 @@ I have been living in Pittsburgh since the summer of 2017, and I will be graduat
 Every day, we encounter different images that represent data. I want to be able to present compelling and moving pieces with enough text and pictures to compel and communicate in an accurate and precise way. In the current political situation, it is vital that we all know how to convey real information in a fast and trustworthy way. 
 
 # Portfolio
-Placeholder for the data visualizations
+<iframe src="https://data.oecd.org/chart/5rUe" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5rUe" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
