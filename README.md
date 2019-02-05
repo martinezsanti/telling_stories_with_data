@@ -41,7 +41,8 @@ General government debt-to-GDP ratio is the amount of a country's total gross go
 <div class="infogram-embed" data-id="4c8474e0-c2ad-4153-a3ca-405f1627dc44" data-type="interactive" data-title="Test_1"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4c8474e0-c2ad-4153-a3ca-405f1627dc44" style="color:#989898!important;text-decoration:none!important;" target="_blank">Test_1</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 # Feedback 
-Feedback 1
+# Feedback 1
+
 Can you tell me what you think this is?
 Looks like a chart of wage and ethnicity. 
 Can you describe to me what this is telling you?
@@ -52,7 +53,8 @@ Who do you think is the intended audience for this?
 I think this is intended for the general public - the info is broad enough that anyone could use it for a variety of reasons. This data also would be used to paint broad strokes and provide supportive/introductory information in a larger report
 Is there anything you would change or do differently?
 I would have liked to see some numerical values, key, or something that provides context as to what the average wages actually are. Are they individual values or are they broken into tiers? Since the values are so similar, I'd group them into tiers if they're not already and then have one color to represent each tier - all the different colors are pretty, but they don't provide any context or visually help the viewer interpret the data
-Feedback 2
+# Feedback 2
+
 It's clear that you're trying to compare wage differences between people of different race/ethnicities in NYC
 
 Upon first glance it's telling me that there is absolutely no difference. Visually they all look the same size to me. Because you want to show the relationship between different wages visually it would make more sense to make this lines I think. Does the color help portray your message? It makes it look like it goes on an infographic but it might be problematic assigning so many dfferent colors to different races. Was surprised that Alaskan natives make so much more $ than everyone else why is that? Are there less people and they're all in high up jobs/ is there a reason? Didn't notice the difference though until I put the mouse over the circle.
