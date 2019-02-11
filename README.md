@@ -1,7 +1,8 @@
 # telling_stories_with_data
 This is Santiago's Website for Telling Stories with Data 
 https://martinezsanti.github.io/telling_stories_with_data
-# [Final Project Link] (finalproject_santiago.md)
+# [Final Project Link] 
+(finalproject_santiago.md)
 
 # About me
 Hi, I am a student in the Telling Stories with Data Class. I was born and raised in Bogota, Colombia and I have a bachelors degree in  Music with a minor in Jazz Guitar. After completing my degree, I worked as a Stage Manager and later as an Artist Manager and Marketing Advisor at an organization dedicated to empowering independent artist. 
