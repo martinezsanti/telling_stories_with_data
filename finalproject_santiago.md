@@ -1,7 +1,7 @@
 # Final Project
 
 ## Part 1
-# Outline
+## Outline
 ## Summary
 The goal of this project is to visualize the distribution of wage and wealth in New York city. In order to do so I plan to use census data with demographic information that includes two economic elements, income and home value. After gathering the data the following step is to start to create visualizations that demonstrate the known disparities between women and men. Following the initial demonstration of the know disparity gap, I would like to create a collection of graphs that depict the distribution of income and home value by ethnicity.
 
@@ -28,7 +28,7 @@ The data sources come from the government data catalog and the us census. This d
 https://catalog.data.gov/dataset/american-community-survey
 https://catalog.data.gov/dataset/housing-affordability-data-system-hads
 
-##Medium 
+## Medium 
 
 As I am also part of the GIS class I plan to use story maps to present my project. It is a tool that allows a clean and professional project and also I allows me the flexibility necessary if I want to create geographic representation of the distribution or aggregate data from my project.
 
