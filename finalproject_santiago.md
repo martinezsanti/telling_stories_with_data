@@ -46,14 +46,14 @@ https://carnegiemellon.maps.arcgis.com/apps/Cascade/index.html?appid=81744a8c943
 
 The distribution of wage and disparity of income related to ethinicity is presented as the emotional arch of Man in a hole (Fall – Rise) 
 
-(/IMG_1.jpg)
+![Sotry Arch Sketch](/IMG_1.jpg)
 
 # The Target Audience
 
 The target audience of this project is general public. As the goal is to communicate the persistence of the wage gap among ethnicity.
 As the individuals who are providing feedback, I have asked three different Heinz Students. One has a bachelors in communications with extensive training in design, the other one is a classmate from the data visualization class, and finally another Master of Arts Management classmate. 
 
-(/IMG_2.jpg)
+![How much of the info to communicate Sketch](/IMG_2.jpg)
 
 # Questionnaire
 Follow the next link:
