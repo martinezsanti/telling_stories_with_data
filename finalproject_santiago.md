@@ -83,6 +83,13 @@ After reading the feedback this is the result
 
 ### Design decision and reflection 
 
+After reading the spreadsheet with feedback I realized that some of the ways in which I was trying to visualize the information and present it to others only made sense to me, because I knew the information.  That was my first finding, present the information in a way that makes sense even if you ignore the granularity of the date behind it. 
+
+Also, as I was working with average and summary statistics, I found that outliers and large numbers can skew the graphs and change the whole interpretation of what the data really means. This was the second finding, sometimes the best decision is to take a sample that represents the composition of the data instead of only using summary statistics. 
+
+My final takeaway is that the best way to learn is by prototyping, I have gain insight about the data and its minutia by visualizing it in different levels of depth and granularity. Moreover, receiving feedback from people who is not familiar with the data and just receive information from the visualization is a great way to know if your argument is being communicated and if there is bias in the visualizations.
+
+
 ### Final Data Story Link 
 
 https://carnegiemellon.shorthandstories.com/santiagomgwage/index.html
